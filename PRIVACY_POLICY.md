@@ -31,10 +31,10 @@ privacy@cognifide.com
 ## By telephone
 +44 (0)20 3475 7200
 ## By mail
-Cognifide Limited
-Greater London House
-180 Hampstead Road
-London NW1 7QP
+Cognifide Limited  
+Greater London House  
+180 Hampstead Road  
+London NW1 7QP  
 United Kingdom
 
 ## Changes to this privacy policy
